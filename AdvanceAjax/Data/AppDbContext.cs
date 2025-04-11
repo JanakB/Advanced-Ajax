@@ -8,11 +8,12 @@ namespace AdvanceAjax.Data
         public AppDbContext()
         {
         }
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
         {
         }
         public virtual DbSet<City> Cities { get; set; }
-        public virtual DbSet<Country> Countiries { get; set; }
+        public virtual DbSet<Country> Countries { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
     }
-
 }
