@@ -59,7 +59,14 @@ namespace AdvanceAjax.Controllers
         [HttpGet]
         public IActionResult Edit(int Id)
         {
-            Customer customer = _context.Customers.Where(c => c.Id == Id).FirstOrDefault();
+
+            Customer customer = _context.Customers
+               .Include(co => co.City)
+               .Where(c => c.Id == Id).FirstOrDefault();
+
+
+            customer.CountryId = customer.City.CountryId;
+
             ViewBag.Countries = GetCountries();
             return View(customer);
         }
@@ -130,6 +137,7 @@ namespace AdvanceAjax.Controllers
                   Value = n.Id.ToString(),
                   Text = n.Name
               }).ToList();
+
 
             return Json(cities);
 
