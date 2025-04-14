@@ -68,6 +68,7 @@ namespace AdvanceAjax.Controllers
             customer.CountryId = customer.City.CountryId;
 
             ViewBag.Countries = GetCountries();
+            ViewBag.Cities = GetCities(customer.CountryId);
             return View(customer);
         }
 
@@ -75,6 +76,13 @@ namespace AdvanceAjax.Controllers
         [HttpPost]
         public IActionResult Edit(Customer customer)
         {
+
+            if (customer.ProfilePhoto != null)
+            {
+                string uniqueFileName = GetProfilePhotoFileName(customer);
+                customer.PhotoUrl = uniqueFileName;
+            }
+
             _context.Attach(customer);
             _context.Entry(customer).State = EntityState.Modified;
             _context.SaveChanges();
@@ -160,6 +168,25 @@ namespace AdvanceAjax.Controllers
             }
             return uniqueFileName;
         }
+
+
+        private List<SelectListItem> GetCities(int countryId)
+        {
+
+            List<SelectListItem> cities = _context.Cities
+                .Where(c => c.CountryId == countryId)
+                .OrderBy(n => n.Name)
+                .Select(n =>
+                new SelectListItem
+                {
+                    Value = n.Id.ToString(),
+                    Text = n.Name
+                }).ToList();
+
+            return cities;
+        }
+
+
 
     }
 }
