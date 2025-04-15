@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\AdvanceAjax\\AdvanceAjax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,24 +118,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Details.cshtml",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAABAvRcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T06:26:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAC4AAAAAUmZmZmb2vzUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:35:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
               "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Edit.cshtml",
               "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
-              "ViewState": "AgIAAFIAAAAANTMzMzMbwGYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-13T06:31:56.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.js",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -139,25 +169,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAABYAAAAANjMzMzMbwBIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-13T06:20:13.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T06:20:13.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:35:54.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
@@ -169,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
@@ -181,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20250410093146_AddCustomerTable.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410093146_AddCustomerTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410093146_AddCustomerTable.cs",
@@ -193,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -205,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Create.cshtml",
@@ -217,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "City.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
@@ -229,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CityController.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "Controllers\\CityController.cs",
@@ -241,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -253,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -265,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Delete.cshtml",
@@ -277,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CountryController.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
@@ -289,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20250410090413_RemoveOnlineCascade.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410090413_RemoveOnlineCascade.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410090413_RemoveOnlineCascade.cs",
@@ -301,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Delete.cshtml",
@@ -313,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Edit.cshtml",
@@ -325,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Details.cshtml",
@@ -337,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Details.cshtml",
@@ -349,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
@@ -361,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AdvanceAjax.csproj",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\AdvanceAjax.csproj",
               "RelativeDocumentMoniker": "AdvanceAjax.csproj",
@@ -373,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
@@ -385,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250410073942_CreateDb.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410073942_CreateDb.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410073942_CreateDb.cs",
@@ -397,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -409,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -421,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Country.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
