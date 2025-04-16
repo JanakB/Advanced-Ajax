@@ -287,3 +287,4 @@ H:\AdvanceAjax\AdvanceAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Wi
 H:\AdvanceAjax\AdvanceAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 H:\AdvanceAjax\AdvanceAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 H:\AdvanceAjax\AdvanceAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+H:\AdvanceAjax\AdvanceAjax\bin\Debug\net8.0\libman.json

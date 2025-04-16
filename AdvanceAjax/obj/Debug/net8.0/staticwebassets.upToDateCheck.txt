@@ -51,6 +51,8 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js
+wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.js
