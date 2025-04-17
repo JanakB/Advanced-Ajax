@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "H:\\AdvanceAjax\\AdvanceAjax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\shared\\_createmodeldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AAA5327-A114-4667-B9AA-D99E30775AE1}|AdvanceAjax.csproj|h:\\advanceajax\\advanceajax\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,45 +139,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_CreateModalForm.cshtml",
-              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\_CreateModalForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\_CreateModalForm.cshtml",
-              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\_CreateModalForm.cshtml",
-              "RelativeToolTip": "Views\\Country\\_CreateModalForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Create.cshtml*",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml*",
+              "ViewState": "AgIAAD8AAACAMTMzMzMbwEsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T08:15:08.105Z",
+              "WhenOpened": "2025-04-10T09:42:41.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_CreateModalForm.cshtml",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\_CreateModalForm.cshtml",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\_CreateModalForm.cshtml*",
+              "RelativeToolTip": "Views\\City\\_CreateModalForm.cshtml*",
+              "ViewState": "AgIAABUAAADAZ2ZmZmYkwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:18:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
               "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\wwwroot\\js\\site.js*",
               "RelativeToolTip": "wwwroot\\js\\site.js*",
-              "ViewState": "AgIAAEcAAACAaWZmZmYgwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAQAAAAAcwCIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-13T06:20:13.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "_CreateModalForm.cshtml",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\_CreateModalForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\_CreateModalForm.cshtml",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\_CreateModalForm.cshtml*",
+              "RelativeToolTip": "Views\\Country\\_CreateModalForm.cshtml*",
+              "ViewState": "AgIAABcAAAAAmpmZmZknwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T08:15:08.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAG8AAABgzMzMzMwqwHcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:08:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAwAAABImZmZmZk7wBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:20:53.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_CreateModelDialog.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Shared\\_CreateModelDialog.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_CreateModelDialog.cshtml",
               "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Shared\\_CreateModelDialog.cshtml",
               "RelativeToolTip": "Views\\Shared\\_CreateModelDialog.cshtml",
-              "ViewState": "AgIAAAoAAABgNDMzMzMbwCMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-15T07:11:32.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
@@ -181,12 +237,11 @@
               "RelativeToolTip": "Views\\Country\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T07:56:46.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T07:56:46.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CountryController.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
@@ -194,25 +249,11 @@
               "RelativeToolTip": "Controllers\\CountryController.cs",
               "ViewState": "AgIAAHUAAACA9f////8TwHYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:51:29.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T07:51:29.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
-              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAHoAAABAZ2ZmZmYkwIkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T09:42:41.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -220,12 +261,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACQAAABgZWZmZmYkwDEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T08:01:06.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T08:01:06.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -233,12 +273,11 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T07:49:18.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:49:18.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
@@ -246,12 +285,11 @@
               "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
               "ViewState": "AgIAAD0AAAAAbWZmZmYkwEgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T07:01:27.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:01:27.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
@@ -259,12 +297,11 @@
               "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
               "ViewState": "AgIAAFMAAAAAOzMzMzMLwGIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T06:31:56.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T06:31:56.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Details.cshtml",
@@ -272,12 +309,11 @@
               "RelativeToolTip": "Views\\Customer\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T06:26:13.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:26:13.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
@@ -289,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
@@ -301,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "20250410093146_AddCustomerTable.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410093146_AddCustomerTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410093146_AddCustomerTable.cs",
@@ -313,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Edit.cshtml",
@@ -321,12 +357,11 @@
               "RelativeToolTip": "Views\\City\\Edit.cshtml",
               "ViewState": "AgIAABcAAAAANzMzMzMLwBsAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T08:14:18.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T08:14:18.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -338,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Create.cshtml",
@@ -350,31 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "City.cs",
-              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T10:20:53.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
-              "ToolTip": "H:\\AdvanceAjax\\AdvanceAjax\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Controllers\\CityController.cs",
-              "ViewState": "AgIAAFcAAABAkZmZmZkpwFIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:08:25.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Customer.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -386,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Delete.cshtml",
@@ -398,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20250410090413_RemoveOnlineCascade.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410090413_RemoveOnlineCascade.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410090413_RemoveOnlineCascade.cs",
@@ -410,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Delete.cshtml",
@@ -422,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\City\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Details.cshtml",
@@ -434,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Details.cshtml",
@@ -446,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Views\\Country\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
@@ -458,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20250410073942_CreateDb.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Migrations\\20250410073942_CreateDb.cs",
               "RelativeDocumentMoniker": "Migrations\\20250410073942_CreateDb.cs",
@@ -470,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -482,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -494,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Country.cs",
               "DocumentMoniker": "H:\\AdvanceAjax\\AdvanceAjax\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
